@@ -81,13 +81,4 @@ In this project, you're presented with the challenge to learn and implement the 
 -   [ ] Mocking for unit testing
 -   [ ] **_RECOMMENDATION!_** Use Trello or some kanban board to keep track of target goals. You can include your trainer on these.
 
-## Init Instructions
 
--   Create another new repostory within this organization for your API with the `nameOfRestaurant_API_teamMemberInitials`
--   Create another new repostory within this organization for your Frontend with the `nameOfRestaurant_FE_teamMemberInitials`
--   A README.md file in your repo describing the goal of this wedding planner, how to use it(the url endpoint calls), technologies used (with versions), ERD, how to initialize it, features and contributers. Optional: Include potential future goals of the project
-
-## Presentation
-
--   Finalized version of the web application must be pushed to personal repository within this organization by the presentation date (June 3rd, 2022)
--   10 minute live demonstration of the web application; demonstration will be performed using your ReactJS FrontEnd to query your API's endpoints
