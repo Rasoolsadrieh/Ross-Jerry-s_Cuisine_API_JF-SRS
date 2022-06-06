@@ -35,7 +35,7 @@ My Restaurant app was developed for a small restaurant that is looking to help s
 
 ## Required Challenge:
 
-In this project, you're presented with the challenge to learn and implement the use of Hibernate an ORM for java. Below are resources to help with understanding how to leverage hibernate in your project. Please talk with your partner and research as soon as possible. Make sure to ask questions and leverage any tool you can.
+In this project, we are challenge to learn and implement the use of Hibernate and ORM for java. Below are resources given by our professor that can help with understanding how to leverage hibernate in our project. 
 
 -   [What is an ORM and Why You Should Use It](https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a)
 
