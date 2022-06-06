@@ -41,12 +41,6 @@ In this project, we are challenge to learn and implement the use of Hibernate an
 
 -   [Hibernate Session Factory](https://www.java2novice.com/hibernate/session-factory/)
 
-## Optional Challenges:
-
--   [ ] Utilization of JWT for user authentication
--   [ ] Session-based caching to minimize calls to the database for already retrieved data
--   [ ] Implementation of Redux Toolkit on the frontend
-
 ## Tech Stack
 
 -   [ ] Java 8
