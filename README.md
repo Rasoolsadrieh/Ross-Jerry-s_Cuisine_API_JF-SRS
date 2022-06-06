@@ -4,10 +4,6 @@
 
 My Restaurant app was developed for a small restaurant that is looking to help streamline the ordering process for customers to help reduce costs. Customers can enjoy an seemless means to order directly with an account of their own at the restaurant in question, where Admins are capable of adding and updating the menu items. This RESTful application leverages a tomcat server to handle incoming requests to thoroughly tested services that must be persisted using Hibernate and Azure SQL services. This project includes a frontend that will be developed using ReactJS to handle user requests.
 
-## ERD
-
-![](img/p1_erd.png)
-
 # User Stories
 
 ## As A: Admin
