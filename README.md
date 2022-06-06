@@ -1,4 +1,4 @@
-# **Project 1:** My Restaurant Application - **_DUE: 06/03/22_**
+# **Project 1:** My Restaurant Application - **_DUE: 06/06/22_**
 
 ## Description
 
@@ -73,12 +73,6 @@ In this project, you're presented with the challenge to learn and implement the 
 -   [ ] JDBC logic is abstracted away by hibernate
 -   [ ] Programmatic persistence of entities (basic CRUD support) using hibernate
 
-## Non-Functional Requirements
 
--   [ ] Daily Commits to Github
--   [ ] Branching strategies implemented
--   [ ] 80% line coverage of all service layer classes
--   [ ] Mocking for unit testing
--   [ ] **_RECOMMENDATION!_** Use Trello or some kanban board to keep track of target goals. You can include your trainer on these.
 
 
