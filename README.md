@@ -27,12 +27,6 @@ My Restaurant app was developed for a small restaurant that is looking to help s
 -   [ ] View past orders by date
 -   [ ] Pay off your balance with your credit card
 
-## Optional User Stories for Customer:
-
--   [ ] Quickly reorder all orders on a specific date
--   [ ] Pay for a friends order
--   [ ] Filter menu by protein
-
 ## Required Challenge:
 
 In this project, we are challenge to learn and implement the use of Hibernate and ORM for java. Below are resources given by our professor that can help with understanding how to leverage hibernate in our project. 
