@@ -1,4 +1,4 @@
-# **Project 1:** My Restaurant Application - **_DUE: 06/06/22_**
+# **Project 1:** Ross and Jerry's Restaurant Application - **_DUE: 06/06/22_**
 
 ## Description
 
