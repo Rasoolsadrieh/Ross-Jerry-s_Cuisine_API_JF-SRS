@@ -57,6 +57,8 @@ In this project, we are challenge to learn and implement the use of Hibernate an
 -   [ ] JDBC logic is abstracted away by hibernate
 -   [ ] Programmatic persistence of entities (basic CRUD support) using hibernate
 
-
+## Collaborators
+- Jerry Faustin
+- Ross Seyedrasool Sadrieh
 
 
