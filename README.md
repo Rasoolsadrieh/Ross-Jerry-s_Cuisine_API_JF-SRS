@@ -49,13 +49,16 @@ In this project, we are challenge to learn and implement the use of Hibernate an
 -   [ ] Azure SQL
 -   [ ] ReactJS Frontend
 -   [ ] Git SCM (on GitHub)
--   [ ] Azure WebApps (Potentially)
+-   [ ] Azure WebApps 
 
 ## Functional Requirements
 
 -   [ ] CRUD operations are supported for one or more domain objects via the web application's exposed endpoints
 -   [ ] JDBC logic is abstracted away by hibernate
 -   [ ] Programmatic persistence of entities (basic CRUD support) using hibernate
+
+## Project Structure
+![Current Restaurant Project](images/p1_erd.png)
 
 ## Collaborators
 - Jerry Faustin
