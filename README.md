@@ -62,6 +62,6 @@ In this project, we are challenge to learn and implement the use of Hibernate an
 
 ## Collaborators
 - Jerry Faustin
-- Ross Seyedrasool Sadrieh
+- Seyedrasool Sadrieh
 
 
